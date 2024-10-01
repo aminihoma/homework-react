@@ -19,18 +19,14 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://www.linkedin.com/in/homa-amini-ba327296"
+            href="https://github.com/aminihoma/homework-react"
             target="_blank"
             rel="noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a
-            href="https://www.linkedin.com/in/homa-amini-ba327296"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="#" target="_blank" rel="noreferrer">
             hosted on Netlify
           </a>
         </p>

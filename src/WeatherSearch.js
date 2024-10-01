@@ -51,7 +51,7 @@ export default function WeatherSearch() {
           <li>Humidity:{humidity}%</li>
           <li>Wind:{wind}km/h/</li>
           <li>
-            <img src={icon} />
+            <img src={icon} alt={description} />
           </li>
         </ul>
       </div>
